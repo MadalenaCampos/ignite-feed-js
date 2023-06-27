@@ -9,19 +9,7 @@ export function Comment({ content, onDeleteComment }) {
   const [likeCount, setLikeCount] = useState(0);
 
   function handleLikeComment() {
-    setLikeCount((stateAtual) => {
-      stateAtual + 1;
-    }); // Melhor usar esse formato!
-
-    // setLikeCount(likeCount + 1);
-    // Esse aumenta de 1 em 1, independente de quantas vezes repita
-
-    // conts newLikeCount = likeCount + 1;
-    // setLikeCount(newLikeCount);
-    // setLikeCount(newLikeCount + 1); -> Assim aumenta de 2 em 2
-
-    // setLikeCount((stateAtual) => {stateAtual + 1});
-    // setLikeCount((stateAtual) => {stateAtual + 1}); -> Assim aumenta de 2 em 2 também
+    setLikeCount(likeCount + 1);
   }
 
   function handleDeleteComment() {
