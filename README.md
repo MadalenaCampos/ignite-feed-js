@@ -1,3 +1,3 @@
 # Ignite Feed
 
-<img src="images/home.png" alt="exemplo imagem">
+<img src="images/Home.png" alt="exemplo imagem">
