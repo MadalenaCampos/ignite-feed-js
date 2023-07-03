@@ -3,7 +3,7 @@
 
 <img src="images/Home.png" alt="exemplo imagem">
 
-> Projeto simples para aprender principais conceitos e fazer uma breve introdução ao [🔗 React](https://pt-br.legacy.reactjs.org/docs/getting-started.html) através do curso Ignite da [🔗 Rocketseat](https://www.rocketseat.com.br/ignite).
+> Projeto simples para aprender principais conceitos e fazer uma breve introdução ao [🔗 React](https://pt-br.legacy.reactjs.org/docs/getting-started.html) através do curso Ignite da [🔗 Rocketseat](https://www.rocketseat.com.br/ignite). <br>
 
 ## 🚀 Instalando o Ignite Feed
 
