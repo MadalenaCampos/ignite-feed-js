@@ -5,4 +5,14 @@
 
 > Projeto simples para aprender principais conceitos e fazer uma breve introdução ao [🔗 React](https://pt-br.legacy.reactjs.org/docs/getting-started.html) através do curso Ignite da [🔗 Rocketseat](https://www.rocketseat.com.br/ignite).
 
+## 🚀 Instalando o Ignite Feed
 
+Para instalar o ignite-feed, siga estas etapas:
+
+```
+npm install
+```
+
+```
+npm run dev
+```
